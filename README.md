@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!&fontSize=90&desc=Oh-Taegyun's%20github&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=Oh-Taegyun's%20github&fontSize=40&fontAlign=75&fontAlignY=35)
 ## Introduction
 - 기계공학 전공 / 컴퓨터공학 전공
 
